@@ -1,5 +1,5 @@
 import random
-random.seed(2)
+
 class Simulation_Chamber:
   rock = [100]
   paper = [100]
